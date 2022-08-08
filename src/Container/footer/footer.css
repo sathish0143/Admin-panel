@@ -1,0 +1,43 @@
+.footerbar{
+    margin-top: 50px;
+}
+.footerdiv{
+    height: 90px;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #567086;
+
+}
+.textpara ,.testlink{
+   color: #fff!important;
+   font-size: 80%;
+   font-weight: 400;
+   text-align: center!important;
+   align-items: center;
+   padding-top: 40px;
+   box-sizing: border-box;
+}
+.testlink{
+   text-decoration: none;
+
+}
+/* width */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #3a4f63; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(164, 196, 233); 
+  }

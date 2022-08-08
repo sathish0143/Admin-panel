@@ -1,0 +1,79 @@
+.containLogin{
+    height: auto;
+    display: block;
+    text-align: center;
+}
+.contain{
+    background-color: #435c70;
+    padding: 30px;
+    margin-top: 50px;
+    width: 400px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    height: max-content;
+}
+.loginhead{
+    font-size: 10px;
+    font-weight: 700;
+    color: #fff;
+}
+.userinput{
+    padding: 19px 90px;
+    border-radius: 0;
+    height: 15px;
+    background-color: #54657d;
+    border: 0;
+}
+.passinput{
+    padding: 19px 90px;
+    border-radius: 0;
+    height: 15px;
+    background-color: #54657d;
+    border: 0;
+}
+.hovercolor{
+    padding: 19px 90px;
+    border-radius: 0;
+    height: 15px;
+    background-color: #606f83;
+    border: 0;
+}
+.inputhead{
+    font-size: 15px;
+    color: white;
+    float: left;
+}
+.usernameinput{
+    box-sizing: border-box;
+}
+.loginbut{
+    width: 350px;
+    height: 50px;
+    margin-top: 30px;
+    color: #fff;
+    background-color: #f5a623;
+    border: 2px solid #f5a623;
+    font-size: 90%;
+    font-weight: 600;
+}
+.loginbut:hover{
+    color: #f5a623;
+    background-color: #54657d;
+    transition: all 0.5s ease;
+}
+.forgotbut{
+    width: 350px;
+    margin-top: 40px;
+    height: 50px;
+    color: #fff;
+    background-color: #f5a623;
+    border: 2px solid #f5a623;
+    font-size: 90%;
+    font-weight: 600;
+}
+.forgotbut:hover{
+    transition: all 0.5s ease;
+    color: #f5a623;
+    background-color: #54657d;
+}

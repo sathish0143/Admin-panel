@@ -1,0 +1,60 @@
+.topbarcontainer{
+    height: 100px;
+    background-color: #567086;
+    padding: 0px;
+    margin-top: 0px;
+}
+.topbarline{
+    display: flex;
+
+}
+.topbarlogo{
+    height: 100px;
+    width: 300px;
+}
+.topbarlogohead{
+    margin-top: 35px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+    font-weight: 700;
+    float: right;
+    color: white;
+}
+.dashimg{
+    margin-top: 20px;
+    width: 30px;
+    height: 30px;
+    filter: invert(100);
+}
+.topbarmenu{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.menubar{
+    width: 600px;
+    margin-left: 150px;
+}
+.downarrow{
+    margin-top: 5px;
+    margin-left: 2px;
+    width: 18px;
+    filter: invert(100);
+    height: 18px;
+}
+.dashhead{
+    margin-bottom: 10px;
+    margin-right: 0;
+    font-size: 13px;
+    color: white;
+}
+.dashname{
+    margin-top: -10px;
+    display: flex;
+    align-items: center;
+    
+}
+.menudiv{
+    text-align: center;
+}
